@@ -37,7 +37,7 @@ This project demonstrates a Python-based process to create relational tables and
 ## Database Details
 
 - Database Name: `ecom_analysis`
-- Port: `5432`
+- Port: `xyz`
 - PostgreSQL
 
 ## Technologies Used
