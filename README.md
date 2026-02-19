@@ -1,5 +1,4 @@
-# Building-a-Relational-E-Commerce-Database-with-Python
-Python-based pipeline to create relational tables and load structured E-Commerce data into PostgreSQL.
+
 # E-Commerce Data Loading (CSV to PostgreSQL)
 
 This project demonstrates a Python-based process to create relational tables and load structured E-Commerce CSV data into a PostgreSQL database.
